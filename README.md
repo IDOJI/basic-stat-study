@@ -1,6 +1,6 @@
 # 🔴 1) Statistical summary on Dataset
+https://html-preview.github.io/?url=https://github.com/IDOJI/basic-stat-study/blob/main/1.Statistical%20Summary%20on%20Dataset/Test.html
 
-테스트
 
 # 🔴 2) Mean difference test between two groups
 
